@@ -1,0 +1,43 @@
+
+YOU MAY FOLLOW THE EULA THEN USE STEAD_GAME_CENTER!
+1.YOU CANNOT COPY THIS PROGRAM
+2.YOU MAY FOLLOW THE GPLv3 EULA FIRST
+3.YOU START THE STEAD_GAME_CENTER EQUARE YOU FOLLOW THIS EULA
+4.HTY ROUTE THIS PROGRAM
+[EN-US]
+你必须同意EULA，然后使用steadgamecenter！
+1.您无法复制此程序
+2.您必须先遵循GPLv3 EULA
+3.当你打开steadgamecenter，你就默认同意了EULA
+4.HTY编写了steadgamecenter
+[ZH-CN]
+You must follow the EULA and use the Steam Game Center!
+1.You cannot copy this program
+2.You should first follow the GPLv3 EULA
+3.When you open Steam Game Center, you agree to the EULA by default
+4.HTY has developed the Steam Game Center
+[EN-UK]
+你必須同意EULA，然後使用steadgamecenter！
+1.您無法複製此程式
+2.您可以先遵循GPLv3 EULA
+3.當你打開steadgamecenter，你就默認同意了EULA
+4.HTY編寫了steadgamecenter
+[ZH-TW]
+Вы должны согласиться с EULA, а затем использовать steadgamecenter! 
+Вы не можете скопировать эту программу 
+Вы можете начать с GPLv3 EULA 
+Когда вы открываете steadgamecenter, вы соглашаетесь с EULA по умолчанию. 
+Компания HTY разработала Steadgamecenter 
+[RU-RA]
+
+The original Chinese Simplified text shall prevail
+Подлинный текст на китайском языке
+以中文-简体原文为准
+以中文-簡體原文為准
+
+===================
+|EULA VER 1.0.0   |
+|DATE 2024/07/25  |
+|USE UTF-8/CRLF   |
+|BY HTY           |
+===================
